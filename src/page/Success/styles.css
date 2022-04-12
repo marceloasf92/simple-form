@@ -1,0 +1,19 @@
+.container-Success {
+  color: rgb(255, 255, 255);
+  border: 1px solid white;
+  padding: 50px;
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 100%;
+}
+
+.container-Success button {
+  width: 150px;
+}
+
+.email {
+  letter-spacing: 2px;
+  color: rgb(68, 68, 233);
+}
